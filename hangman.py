@@ -1,6 +1,3 @@
-from sys import implementation
-
-
 # Hangman implementation
 
 import random
